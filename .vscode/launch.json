@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Proyecto_Final.Dijkstra",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Practica_7.Dijkstra",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Prac_7.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Practica_6.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Practica_5.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Practica_4.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Practica_2.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal(1)",
+            "request": "launch",
+            "mainClass": "Practica_2_1.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal(2)",
+            "request": "launch",
+            "mainClass": "Practica_2_2.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal(3)",
+            "request": "launch",
+            "mainClass": "Practica_3.Principal",
+            "projectName": "Erik_4e33db91"
+        },
+        {
+            "type": "java",
+            "name": "Principal(4)",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "Erik_4e33db91"
+        }
+    ]
+}
